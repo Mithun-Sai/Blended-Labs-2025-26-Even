@@ -110,7 +110,7 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f909adf8-900f-422e-9604-86a763e8f45e" />
 
 ---
 
